@@ -7,7 +7,7 @@ Currently developer at MedSênior.
 
 ### More about me
 
-- 🚀 I’m currently working on React Native, React, Asp.Net Core, SQL Server...
+- 🚀 I’m currently working on React Native, React, Asp.Net Core, Nodejs, SQL Server...
 - 🔭 I’m currently learning Software Development.
 - 💻 I have knowledge on HTML/CSS, Javascript, TypeScript, React, Nodejs, Expressjs, MongoDB, Git, etc.
 
