@@ -16,7 +16,7 @@ You can see more in my repos.
 ### You find me in
 
 [![](https://img.shields.io/badge/LinkedIn-JulioCesar-blue)](https://www.linkedin.com/in/julio-cesar-de-medeiros)
-[![](https://img.shields.io/badge/Gmail-JulioCesarDev-red)](mailto:juliocesarmedeirosdev@gmail.com)
+[![](https://img.shields.io/badge/Gmail-JulioCesar-red)](mailto:juliocesarmedeirosdev@gmail.com)
 
 <div align="center">
 
