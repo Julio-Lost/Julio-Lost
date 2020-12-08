@@ -23,7 +23,7 @@ You can see more in my repos.
 </div>
 <br/>
 
-<a href="https://github.com/2lipe/Xamarin.Forms.NeoControls">
+<a href="https://github.com/Julio-Lost/Xamarin.Forms.NeoControls">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Julio-Lost&hide=Batchfile" />
 </a>
 
