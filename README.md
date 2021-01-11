@@ -23,9 +23,8 @@ You can see more in my repos.
 </div>
 <br/>
 
-<a href="https://github.com/Julio-Lost/Xamarin.Forms.NeoControls">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Julio-Lost&hide=Batchfile" />
-</a>
+![Julio Cesar de Medeiros](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Julio-Lost&hide=Batchfile)
+![Julio Cesar de Medeiros](https://github-readme-stats.vercel.app/api?username=Julio-Lost&count_private=true)
 
 <br />
 <br />
