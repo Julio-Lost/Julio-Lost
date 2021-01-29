@@ -17,6 +17,7 @@ You can see more in my repos.
 
 [![](https://img.shields.io/badge/LinkedIn-JulioCesar-blue)](https://www.linkedin.com/in/julio-cesar-de-medeiros)
 [![](https://img.shields.io/badge/Gmail-JulioCesar-red)](mailto:juliocesarmedeirosdev@gmail.com)
+[![](https://img.shields.io/badge/Website-Felipe.Dev-aqua)](https://juliocesardemedeiros.netlify.app/)
 
 <div align="center">
 
