@@ -3,7 +3,7 @@
 I'm a student of systems analysis and development, learning about frontend, backend and their frameworks, specializing in JavaScript,
 TypeScript, React and more. I love to explore new technologies and
 leverage them to solve real-life problems.
-Currently developer at MedSênior.
+Currently developer at Stone.
 
 ### More about me
 
