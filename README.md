@@ -1,6 +1,6 @@
 ### Hi there, I'm [Julio Cesar de Medeiros!](www.linkedin.com/in/julio-cesar-de-medeiros) 👋
 
-I'm graduated in systems analysis and development, learning about frontend, backend and their frameworks, specializing in JavaScript,
+I have a degree in systems analysis and development, learning about frontend, backend and their frameworks, specializing in JavaScript,
 TypeScript, React and more. I love to explore new technologies and
 leverage them to solve real-life problems.
 Currently developer at Mil Sênior Lab.
