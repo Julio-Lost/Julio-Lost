@@ -3,7 +3,7 @@
 I have a degree in System Analysis and Development, learning about frontend, backend and their frameworks, specializing in JavaScript,
 TypeScript, React and more. I love to explore new technologies and
 leverage them to solve real-life problems.
-Currently developer at Mil Sênior Lab.
+Currently developer at CI&T.
 
 ### More about me
 
